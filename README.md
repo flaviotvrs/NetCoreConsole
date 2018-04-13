@@ -1,0 +1,2 @@
+# .Net Core Console Studies
+
